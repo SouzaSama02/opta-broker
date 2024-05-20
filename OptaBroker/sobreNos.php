@@ -4,7 +4,7 @@
 <?php include './reparticao/head.php';?>
 
 <body>
-    Teste
+<?php include './reparticao/menu.php';?>
     
 </body>
 

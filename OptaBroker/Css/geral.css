@@ -1,1 +1,24 @@
-@import url("layout.css");
+@import url("especificacoesGeral.css");
+@import url("menu.css");
+@import url("footer.css");
+
+:root{
+    /*CORES DE FONT*/
+    --azulForte:#083D77 ;
+    --azulClaro:#2457C5 20%;
+    --bege:#ebebd3;
+    --amarelo:#f4d35e;
+    --pretp:#000;
+    --degradeMenu: linear-gradient(to right,#D3E3FC ,#749BD7,#629CFF );;
+/* FONT*/
+    --grande: 5rem ;
+    --pequena:1rem;
+    --media: 2rem;
+
+    --grossa:800;
+    --normal:400;
+    --fina:200;
+
+
+
+}
