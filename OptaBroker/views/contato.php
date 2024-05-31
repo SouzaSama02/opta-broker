@@ -4,7 +4,7 @@
 <?php include './reparticao/head.php';?>
 
 <body>
-    
+    Teste
     
 </body>
 </html>
